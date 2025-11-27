@@ -1,4 +1,3 @@
-"# Utkarshkumar29" 
 <!-- Header -->
 <h1 align="center">Hi, I'm Utkarsh Kumar 👋</h1>
 <h3 align="center">Frontend Engineer • React & Next.js Specialist • UI/UX Focused Developer</h3>

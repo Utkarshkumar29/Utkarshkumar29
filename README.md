@@ -72,7 +72,7 @@ A massive networking platform built from scratch with:
 
 ## 🌐 Connect With Me  
 <p>
-<a href="https://www.linkedin.com/in/utkarsh-kumar29/](https://www.linkedin.com/in/utkarsh-kumar-p2014/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+<a href="https://www.linkedin.com/in/utkarsh-kumar-p2014/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
 <a href="mailto:ukyp2014@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
 </p>
 
